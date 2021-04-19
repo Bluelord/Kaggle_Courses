@@ -9,7 +9,8 @@ But the best feature of Kaggle is **Kaggle Learn**. Even if you don’t know any
 you can learn all the basics from Kaggle Courses and then move on to sharpening your skills by doing projects.
 
 In this repository, the Kaggle learn course tutorial and excerses nootbooks(.ipynb) are available
-which I have done and earned completion certificates. The courses which are done are as follows:
+which I have done and earned completion certificates. The dataset used in perticular course are avalable
+in that courses folder, the dataset can also be found in kaggel. The courses which are done are as follows:
 
 - ### Courses
   - [**Python**](https://github.com/Bluelord/Kaggle_Courses/blob/9ae1855f700e39496aee6fd8917569a401fafe5a/01%20Python/Python.png)
