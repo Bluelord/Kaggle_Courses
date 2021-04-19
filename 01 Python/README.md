@@ -10,6 +10,6 @@ Course Instructor for this is [Colin Morris](https://www.kaggle.com/colinmorris)
 He is a data scientist and educator with a background in computational linguistics.
 In his spare time, he enjoys building data visualizations of pop music.
 
-This courses contains following lessons:
+This course contains following lessons:
 
 ![](https://github.com/Bluelord/Kaggle_Courses/blob/3b41a31785b1479cad6edf83a784b5d7160d243c/Images/01_Python.JPG)
