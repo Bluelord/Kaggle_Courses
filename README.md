@@ -13,7 +13,7 @@ which I have done and earned completion certificates. The dataset used in pertic
 in that courses folder, the dataset can also be found in kaggel. The courses which are done are as follows:
 
 - ### Courses
-  - [**Python**](https://github.com/Bluelord/Kaggle_Courses/blob/9ae1855f700e39496aee6fd8917569a401fafe5a/01%20Python/Python.png)
+  - [**Python**](https://github.com/Bluelord/Kaggle_Courses/blob/02b0089524af5849577d3bd828db05ab20b03674/01%20Python/README.md)
   - **Pandas**
   - **Data Visualization**
   - **Data Cleaning**
