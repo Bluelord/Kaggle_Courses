@@ -12,4 +12,4 @@ In his spare time, he enjoys building data visualizations of pop music.
 
 This course contains following lessons:
 
-![]
+![](https://github.com/Bluelord/Kaggle_Courses/blob/9c4c133e0494e33a4944993c4555bf8046a846d1/Images/01_Python.JPG)
