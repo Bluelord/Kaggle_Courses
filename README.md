@@ -14,7 +14,7 @@ in that courses folder, the dataset can also be found in kaggel. The courses whi
 
 - ### Courses
   - [**Python**](https://github.com/Bluelord/Kaggle_Courses/blob/02b0089524af5849577d3bd828db05ab20b03674/01%20Python/README.md)
-  - **Pandas**
+  - [**Pandas**](https://github.com/Bluelord/Kaggle_Courses/blob/cfa3d4df0b90861eb7fdecaca25fe52d93aca4bc/02%20Pandas/README.md)
   - **Data Visualization**
   - **Data Cleaning**
   - **Intro to SQL**
