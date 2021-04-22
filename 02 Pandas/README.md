@@ -12,4 +12,4 @@ He has a BA in Mathematics. Aleksey currently works for Quilt Data.
 
 This course contains following lessons:
 
-- ### **Lessons**
+![](https://github.com/Bluelord/Kaggle_Courses/blob/4ad965ac1a3525ff409477503a7aa856a7e9cfa8/Images/02_Pandas.JPG)
