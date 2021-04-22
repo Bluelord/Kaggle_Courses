@@ -9,7 +9,7 @@ often structured around time series. You will learn powerful analysis, selection
 Instrctor for this course is [**Aleksey Bilogur**](https://www.kaggle.com/residentmario), he is a civic data specialist 
 and open source Python contributor. He has done work for the NYC Mayor’s Office and NYU CUSP. 
 He has a BA in Mathematics. Aleksey currently works for Quilt Data.
-The Dataset used in notebook is 
+The Dataset used in notebook code is available in the google drive path, it is also available on Kaggle datasets.
 
 This course contains following lessons:
 
