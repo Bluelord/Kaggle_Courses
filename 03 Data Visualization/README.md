@@ -6,7 +6,11 @@
 
 In this hands-on micro-course, you'll learn how to take your data visualizations to the next level with 
 [seaborn](https://seaborn.pydata.org/index.html), a powerful but easy-to-use data visualization tool. 
-To use seaborn, you'll also learn a bit about how to write code in Python.
+To use seaborn, you'll also learn a bit about how to write code in Python. Instructor for this course is
+[Alexis Cook](https://www.kaggle.com/alexisbcook), AI Educator Alexis has taught data science for several
+online learning platforms, including Udacity. She holds degrees from Duke University, the University of Michigan,
+and Brown University.
+
 Take a peek at some of the charts you'll make, check out the figures below.
 
 ![tut1_plots_you_make](https://i.imgur.com/54BoIBW.png)
