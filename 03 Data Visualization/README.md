@@ -14,3 +14,7 @@ and Brown University.
 Take a peek at some of the charts you'll make, check out the figures below.
 
 ![tut1_plots_you_make](https://i.imgur.com/54BoIBW.png)
+
+This course is divided into 7 leassons, as follows:
+
+![](https://github.com/Bluelord/Kaggle_Courses/blob/db615403d353a030c182d910ae9c558d2cb785e1/Images/03_Data_visulazation.JPG)
